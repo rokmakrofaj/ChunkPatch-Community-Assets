@@ -1,0 +1,41 @@
+[
+  {
+    "game": "Far Cry 5",
+    "game_id": "552520",
+    "name": "Far Cry 5 – Tam Türkçe Çeviri",
+    "description": "Tüm diyaloglar, menüler ve altyazılar dahil tam Türkçe çeviri. Hikaye modu ve yan görevler tamamen çevrilmiştir.",
+    "author": "AhmetÇevirmen",
+    "version": "1.2.0",
+    "date": "2026-07-20",
+    "platform": "Steam",
+    "verified": true,
+    "download_url": "https://github.com/rokmakrofaj/ChunkPatch-Community-Assets/releases/tag/far-cry-5-v1.2.0",
+    "cover": ""
+  },
+  {
+    "game": "Far Cry 5",
+    "game_id": "552520",
+    "name": "Far Cry 5 – Sadece Menü Çevirisi",
+    "description": "Sadece oyun menüleri ve ayarlar kısmının Türkçe çevirisi. Hafif ve hızlı.",
+    "author": "MehmetTR",
+    "version": "0.9.0",
+    "date": "2026-06-15",
+    "platform": "Steam",
+    "verified": true,
+    "download_url": "https://github.com/rokmakrofaj/ChunkPatch-Community-Assets/releases/tag/far-cry-5-menu-v0.9.0",
+    "cover": ""
+  },
+  {
+    "game": "Outlast 2",
+    "game_id": "414700",
+    "name": "Outlast 2 – UI ve Altyazı Çevirisi",
+    "description": "Oyun içi arayüz elemanları ve tüm altyazıların Türkçe çevirisi.",
+    "author": "KorkuSever42",
+    "version": "1.0.0",
+    "date": "2026-08-01",
+    "platform": "Steam",
+    "verified": true,
+    "download_url": "https://github.com/rokmakrofaj/ChunkPatch-Community-Assets/releases/tag/outlast-2-v1.0.0",
+    "cover": ""
+  }
+]
